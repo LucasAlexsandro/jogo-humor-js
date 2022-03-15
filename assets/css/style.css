@@ -82,3 +82,14 @@ body {
     background-color: #05595B;
     margin-top: 100px;
 }
+
+@media (max-width: 750px){
+    .content__main {
+        flex-direction: column;
+    }
+    .info {
+        width: 400px;
+        height: 450px;
+        padding: 40px;
+    }
+}
