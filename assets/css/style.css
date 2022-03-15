@@ -61,7 +61,24 @@ body {
     color: #05595B;
 }
 
+.info h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    color: #05595B;
+    margin-top: 50px;
+}
+
 .image__hulk img {
     width: 100%;
     max-width: 650px;
+}
+
+
+#btnTrocar {
+    padding: 10px 50px;
+    font-weight: bold;
+    border: none;
+    color: #fff;
+    background-color: #05595B;
+    margin-top: 100px;
 }
